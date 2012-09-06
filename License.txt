@@ -1,0 +1,5 @@
+This software provides a handler for the ifile: URI protocol.  This is intended to be used to allow linking directly to internal files via a website.  It is still up to the user to insure that any file links are safe to use before clicking.
+
+A small helper application named ifile.exe will be added to the Windows directory.
+
+This installer will add necessary values to the registry to support the ifile: protocol in all web browsers.  It may still be necessary in some browsers to specify one time that the iFile Helper should be used to open ifile: links.
